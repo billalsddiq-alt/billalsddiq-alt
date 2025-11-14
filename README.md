@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi I`m Muhammad Billal Siddiq👋
+Hai! nama saya muhammad billal siddiq, seorang pemula di
+bidang web develpoment yang saat ini sedang belajar HTML, CSS
+dan dasar-dasar pengembangan web modern.
 
-<!--
-**billalsddiq-alt/billalsddiq-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profil github ini adalah tempat saya mengunggah proyek
+latihan,percobaan kecil, dan segala hal yang saya bangun
+untuk terus meningkatkan kemampuan saya. saya masih berada 
+di awal perjalanan belajar, tetapi saya sangat bersemangat 
+untuk berkembang sedikit demi sedikit dan menghasilkan 
+proyek yang lebih baik ke depannhya
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## salam hangat
 -->
