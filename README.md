@@ -8,7 +8,7 @@ latihan,percobaan kecil, dan segala hal yang saya bangun
 untuk terus meningkatkan kemampuan saya. saya masih berada 
 di awal perjalanan belajar, tetapi saya sangat bersemangat 
 untuk berkembang sedikit demi sedikit dan menghasilkan 
-proyek yang lebih baik ke depannhya
+proyek yang lebih baik ke depannya
 
 ## salam hangat
 -->
